@@ -23,7 +23,7 @@ No ads, no tracking, no downloads — just simple looping.
 ---
 
 ## 🎥 Demo
-![YouTube A–B Loop Demo](./addon final.gif)
+![YouTube A–B Loop Demo](./demo.gif)
 
 ---
 
