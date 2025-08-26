@@ -23,6 +23,9 @@ No ads, no tracking, no downloads — just simple looping.
 ---
 
 ## 🎥 Demo
+
+_Demo showing the A–B loop controls in use on YouTube._
+
 ![YouTube A–B Loop Demo](./demo.gif)
 
 ---
