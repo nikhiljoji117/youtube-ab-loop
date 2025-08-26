@@ -31,8 +31,3 @@ No ads, no tracking, no downloads — just simple looping.
 This extension was developed for **personal use** and is not publicly listed on Mozilla Add-ons.  
 You can explore the source code here in the repository.  
 
----
-
-## 📄 License  
-MIT License.  
-
