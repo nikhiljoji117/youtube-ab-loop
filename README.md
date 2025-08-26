@@ -29,5 +29,5 @@ You can explore the source code here in the repository.
 ---
 
 ## 📄 License  
-MIT License (or add your preferred license here).  
+MIT License.  
 
