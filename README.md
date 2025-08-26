@@ -9,7 +9,7 @@ Ideal for:
 - Learning music  
 - Practicing languages  
 - Studying scenes  
-- Rewatching your favorite moments  
+- Rewatching all your favorite moments  
 
 ---
 
