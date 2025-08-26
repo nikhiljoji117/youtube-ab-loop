@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "YouTube A-B Loop",
+  "version": "1.0.2",
+  "description": "Loop between A and B points in YouTube videos.",
+  "permissions": ["*://www.youtube.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["*://www.youtube.com/watch*"],
+      "js": ["content.js"]
+    }
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "youtube-ab-loop-2@example.com",
+      "strict_min_version": "109.0"
+    }
+  }
+}
