@@ -30,7 +30,7 @@ _Demo showing the A–B loop controls in use on YouTube._
 
 ---
 
-## 📥 Installation  
+## Installation  
 This extension was developed for **personal use** and is not publicly listed on Mozilla Add-ons.  
 You can explore the source code here in the repository.  
 
