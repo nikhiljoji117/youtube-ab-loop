@@ -1,4 +1,4 @@
-# YouTube A–B Loop 🔁  
+# YouTube A–B Loop
 A lightweight Firefox extension for looping between two points in YouTube videos.  
 
 ## About this extension  
@@ -13,7 +13,7 @@ Ideal for:
 
 ---
 
-## ✨ Features  
+## Features  
 - Non-intrusive UI with a toggle button under the video  
 - Custom start/end input (supports hours, minutes, seconds)  
 - Works on desktop Firefox  
@@ -22,7 +22,7 @@ No ads, no tracking, no downloads — just simple looping.
 
 ---
 
-## 🎥 Demo
+## Demo
 
 _Demo showing the A–B loop controls in use on YouTube._
 
